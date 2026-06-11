@@ -1,4 +1,5 @@
-## I am currently working on my Bachelor of Science degree in Cybersecurity and Infomration Assurance at WGU. 
+## Cybersecurity and Information Assurance
+I am currently working on my Bachelor of Science degree in Cybersecurity and Infomration Assurance at WGU. 
 I have already earned my CompTIA A+, CompTIA Network+, and CompTIA Security+ certifications. 
 
 <!--
