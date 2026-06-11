@@ -27,8 +27,7 @@ Dedicated public safety professional with over 10 years of military service and 
 - 📧 Wicked0Wizard@gmail.com
 - 📱 (352) 207-1468
 - [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Personal Portfolio](https://yourusername.github.io)
-- [Resume PDF](link-to-resume.pdf)
+<!-- - [Resume PDF](link-to-resume.pdf) -->
 
 ---
 
