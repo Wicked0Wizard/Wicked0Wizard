@@ -1,16 +1,38 @@
-<!-- My Name -->
-## Frank W. Johns
-<!-- My Profession -->
-### Cybersecurity and Information Assurance
-<!-- Study --> 
-I am currently working on my Bachelor of Science degree in Cybersecurity and Infomration Assurance at WGU. 
-<!-- Certifications --> 
-Current Certifcations: <br/>
-CompTIA A+ <br/>
-CompTIA Network+ <br/>
-CompTIA Security+ <br/>
-CompTIA IT Operations Specialist <br/>
-CompTIA Secure Infrastructure Specialist <br/>
+# Hi there, I'm Frank W. Johns 👋
+
+**Veteran Law Enforcement Professional | Cybersecurity Student | CompTIA Certified**
+
+Dedicated public safety professional with over 20 years of experience in law enforcement, security, crisis intervention, investigations, and information technology. Currently pursuing a **Bachelor of Science in Cybersecurity and Information Assurance** at Western Governors University while leveraging my CompTIA and law enforcement expertise.
+
+## 🚀 Professional Highlights
+- **IT & Security Certifications**: CompTIA A+, Network+, Security+, IT Operations Specialist, Secure Infrastructure Specialist + TestOut Linux/PC/Routing/Security/Server Pro
+- **Programming Knowledge**: C++, C#, Java, JavaScript, Python
+- **Key Skills**: Crisis Intervention Team (CIT) Certified, Verbal De-escalation, Axon Systems, Microsoft Office Suite, Network Troubleshooting, Access Control & IT Systems Support
+- **Current Studies**: BS Cybersecurity & Information Assurance, Western Governors University (Started Aug 2025 • Expected Graduation Jan 2028)
+
+## 🛡️ Experience
+- **Senior Police Officer**, VA North Florida/South Georgia Veterans Health System (Jul 2023 – Sep 2025)  
+  Patrolling, emergency response, investigations, conflict resolution, camera systems monitoring, and IT support in a healthcare environment.
+- **Correctional Officer Sergeant**, Florida Department of Corrections (2002–2022)  
+  Security operations, staff supervision, IT support, training, data management, and crisis intervention.
+- **U.S. Navy Postal Clerk** (1991–2002) – E-6, supervised operations and logistics.
+
+## 🎓 Education & Training
+- **BS Cybersecurity and Information Assurance** – Western Governors University (In Progress)
+- VA Basic Police Officer + Crisis Intervention Team (CIT)
+- ATS Information Technology, Eastern Gateway Community College
+- Game & Simulation Programming, Rasmussen College
+
+## 🔗 Connect With Me
+- 📧 Wicked0Wizard@gmail.com
+- 📱 (352) 207-1468
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Personal Portfolio](https://yourusername.github.io)
+- [Resume PDF](link-to-resume.pdf)
+
+---
+
+*Committed to integrity, service, continuous learning, and advancing in cybersecurity and public safety.*
 
 
 <!--
