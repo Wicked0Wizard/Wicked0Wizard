@@ -1,4 +1,5 @@
-## Hi there 👋
+## I am currently working on my Bachelor of Science degree in Cybersecurity and Infomration Assurance at WGU. 
+I have already earned my CompTIA A+, CompTIA Network+, and CompTIA Security+ certifications. 
 
 <!--
 **Wicked0Wizard/Wicked0Wizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
