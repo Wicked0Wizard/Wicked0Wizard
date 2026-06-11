@@ -5,7 +5,7 @@
 Dedicated public safety professional with over 10 years of military service and 20 years of experience in law enforcement, security, crisis intervention, investigations, and information technology. Currently pursuing a **Bachelor of Science in Cybersecurity and Information Assurance** at Western Governors University while leveraging my CompTIA and law enforcement expertise.
 
 ## 🚀 Professional Highlights
-- **IT & Security Certifications**: CompTIA A+, Network+, Security+, IT Operations Specialist, Secure Infrastructure Specialist + TestOut Linux/PC/Routing/Security/Server Pro
+- **IT & Security Certifications**: CompTIA A+, CompTIA Network+, CompTIA Security+, CompTIA IT Operations Specialist, CompTIA Secure Infrastructure Specialist + TestOut Linux/PC/Routing/Security/Server Pro
 - **Programming Knowledge**: C++, C#, Java, JavaScript, Python
 - **Key Skills**: Crisis Intervention Team (CIT) Certified, Verbal De-escalation, Axon Systems, Microsoft Office Suite, Network Troubleshooting, Access Control & IT Systems Support
 - **Current Studies**: BS Cybersecurity & Information Assurance, Western Governors University (Started Aug 2025 • Expected Graduation Jan 2028)
