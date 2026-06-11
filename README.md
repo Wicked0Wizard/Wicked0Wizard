@@ -1,11 +1,17 @@
+<!-- My Name -->
 ## Frank W. Johns
+<!-- My Profession -->
 ### Cybersecurity and Information Assurance
+<!-- Study --> 
 I am currently working on my Bachelor of Science degree in Cybersecurity and Infomration Assurance at WGU. 
-Current Certifcations:
-CompTIA A+ 
-CompTIA Network+
-CompTIA Security+ 
- 
+<!-- Certifications --> 
+Current Certifcations: <br/>
+CompTIA A+ <br/>
+CompTIA Network+ <br/>
+CompTIA Security+ <br/>
+CompTIA IT Operations Specialist <br/>
+CompTIA Secure Infrastructure Specialist <br/>
+
 
 <!--
 **Wicked0Wizard/Wicked0Wizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
