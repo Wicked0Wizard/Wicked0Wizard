@@ -7,7 +7,7 @@ Dedicated public safety professional with over 10 years of military service and 
 ## 🚀 Professional Highlights
 - **IT & Security Certifications**: CompTIA A+, CompTIA Network+, CompTIA Security+, CompTIA IT Operations Specialist, CompTIA Secure Infrastructure Specialist + TestOut Linux/PC/Routing/Security/Server Pro
 - **Programming Knowledge**: C++, C#, Java, JavaScript, Python, VB, VBA
-- **Key Skills**: Investigations, Crisis Intervention Team (CIT) Certified, Verbal De-escalation, Axon Systems, Microsoft Office Suite, Network Troubleshooting, Access Control & IT Systems Support
+- **Key Skills**: Microsoft Office Suite, Network Troubleshooting, Access Control & IT Systems Support, Investigations, Crisis Intervention Team (CIT) Certified, Verbal De-escalation, Axon Systems
 - **Current Studies**: BS Cybersecurity & Information Assurance, Western Governors University (Started Aug 2025 • Expected Graduation Jan 2028)
 
 ## 🛡️ Experience
