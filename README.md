@@ -2,12 +2,12 @@
 
 **U.S. Navy Verteran | Retired Law Enforcement Professional | Cybersecurity Student | CompTIA Certified**
 
-Dedicated public safety professional with over 10 years of military service and over 20 years of experience in law enforcement, security, crisis intervention, investigations, and information technology. Currently pursuing a **Bachelor of Science in Cybersecurity and Information Assurance** at Western Governors University while leveraging my CompTIA and law enforcement expertise.
+Dedicated public safety professional with over 10 years of military service and over 20 years of experience in law enforcement. Currently pursuing a **Bachelor of Science in Cybersecurity and Information Assurance** at Western Governors University while leveraging my CompTIA and law enforcement expertise.
 
 ## 🚀 Professional Highlights
 - **IT & Security Certifications**: CompTIA A+, CompTIA Network+, CompTIA Security+, CompTIA IT Operations Specialist, CompTIA Secure Infrastructure Specialist + TestOut Linux/PC/Routing/Security/Server Pro
-- **Programming Knowledge**: C++, C#, Java, JavaScript, Python
-- **Key Skills**: Crisis Intervention Team (CIT) Certified, Verbal De-escalation, Axon Systems, Microsoft Office Suite, Network Troubleshooting, Access Control & IT Systems Support
+- **Programming Knowledge**: C++, C#, Java, JavaScript, Python, VB, VBA
+- **Key Skills**: Investigations, Crisis Intervention Team (CIT) Certified, Verbal De-escalation, Axon Systems, Microsoft Office Suite, Network Troubleshooting, Access Control & IT Systems Support
 - **Current Studies**: BS Cybersecurity & Information Assurance, Western Governors University (Started Aug 2025 • Expected Graduation Jan 2028)
 
 ## 🛡️ Experience
@@ -22,11 +22,15 @@ Dedicated public safety professional with over 10 years of military service and 
 - VA Basic Police Officer + Crisis Intervention Team (CIT)
 - ATS Information Technology, Eastern Gateway Community College
 - Game & Simulation Programming, Rasmussen College
+- Navy Leadership
+- Postal Supervisory School
+- Postal Clerk School
+- Basic Recruit Training
 
 ## 🔗 Connect With Me
 - 📧 Wicked0Wizard@gmail.com
 - 📱 (352) 207-1468
-- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/frank-w-johns)
 <!-- - [Resume PDF](link-to-resume.pdf) -->
 
 ---
