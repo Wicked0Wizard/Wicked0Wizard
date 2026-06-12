@@ -1,6 +1,6 @@
 # Hi there, I'm Frank W. Johns 👋
 
-**U.S. Navy Verteran | Veteran Law Enforcement Professional | Cybersecurity Student | CompTIA Certified**
+**U.S. Navy Verteran | Retired Law Enforcement Professional | Cybersecurity Student | CompTIA Certified**
 
 Dedicated public safety professional with over 10 years of military service and over 20 years of experience in law enforcement, security, crisis intervention, investigations, and information technology. Currently pursuing a **Bachelor of Science in Cybersecurity and Information Assurance** at Western Governors University while leveraging my CompTIA and law enforcement expertise.
 
