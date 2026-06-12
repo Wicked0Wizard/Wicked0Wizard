@@ -15,6 +15,7 @@ Dedicated public safety professional with over 10 years of military service and 
   Patrolling, emergency response, investigations, conflict resolution, camera systems monitoring, and IT support in a healthcare environment.
 - **Correctional Officer Sergeant**, Florida Department of Corrections (2002–2022)  
   Security operations, staff supervision, IT support, training, data management, and crisis intervention.
+- **Administrative Assistant**, Delta Laboratories (2002)
 - **U.S. Navy Postal Clerk** (1991–2002) – E-6, supervised operations and logistics.
 
 ## 🎓 Education & Training
